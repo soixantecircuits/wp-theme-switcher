@@ -1,4 +1,4 @@
-# WP-Multilingual-Slider
+# WP-Theme-Switcher
 
 ## Description 
 
