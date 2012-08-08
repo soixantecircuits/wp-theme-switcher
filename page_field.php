@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: wp-theme-switcher
+Plugin Name: WP-Theme-Switcher
 Plugin URI: http://asso-ela.com/
 Description: A simple plugin which what you can choose a theme for your page
 Version: 1.0
